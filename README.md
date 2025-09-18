@@ -1,6 +1,8 @@
 # Superstore-Analysis
 # 🏪 Belfast Superstore Data Analysis (Excel Project)
 
+![](ChatGPTImage.png)
+
 
 ## 📌 Project Overview
 This project is a sample for a retail Superstore in Belfast.  
@@ -30,6 +32,9 @@ It demonstrates how Excel can be used for:
   - Quantity
   - Profit
 
+![](ChatGPTImageSep.png)
+
+
 ---
 
 ## 🔎 Key Analysis
@@ -46,6 +51,7 @@ The Excel dashboard includes:
 - Pivot tables for slicing sales by product, customer, or category  
 - Charts (bar, line, pie) for visualization  
 - Interactive filters (slicers) for exploring the data  
+
 
 ---
 
@@ -71,9 +77,9 @@ The Excel dashboard includes:
 ---
 
 ## 📬 Author
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com)  
+Oluwatobiloba Omoyele  
+📧 Omoyeletobiloba92@gmail.com  
+🔗 [LinkedIn Profile](www.linkedin.com/in/oluwatobiloba-omoyele-9a6b2b262)  
 
 ---
 
